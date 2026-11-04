@@ -1,0 +1,58 @@
+# Cybersecurity Incident Report Template
+
+## 1. Incident Information
+
+Incident Reference Number:
+Date Reported:
+Time Reported:
+Reported By:
+Department:
+
+## 2. Incident Details
+
+Type of Incident:
+[ ] Phishing Email
+[ ] Suspicious SMS
+[ ] Suspicious Phone Call
+[ ] Account Compromise
+[ ] Other
+
+Date and Time of Incident:
+
+Description of Incident:
+
+## 3. Evidence
+
+Sender or Source:
+Subject or Message Description:
+Suspicious Website or Domain:
+Attachments Present: Yes / No
+
+Evidence Location:
+
+Note: Do not include passwords, authentication
+codes or unnecessary personal information.
+
+## 4. Actions Taken
+
+[ ] Message Reported
+[ ] IT Department Notified
+[ ] Account Secured
+[ ] Password Reset Through Official Channel
+[ ] Other
+
+Additional Actions:
+
+## 5. Follow-Up
+
+Assigned Analyst:
+Investigation Status:
+Recommended Preventive Measures:
+
+## 6. Closure
+
+Resolution Summary:
+
+Date Closed:
+
+Approved By:
